@@ -1,0 +1,32 @@
+{
+  "1a266aea-8ef1-48e9-be5a-cfa644f53769": {
+    "Marca": "Chevrolet",
+    "Modelo": "Sail",
+    "Airbags": true,
+    "ABS": true
+  },
+  "1a03d317-078e-4e79-94fa-6d3241caef8b": {
+    "Marca": "Suzuki",
+    "Modelo": "S-presso",
+    "Airbags": true,
+    "ABS": false
+  },
+  "c32a8ed5-c702-426f-aea2-024f0b7740c2": {
+    "Marca": "Nissan",
+    "Modelo": "Versa",
+    "Airbags": true,
+    "ABS": true
+  },
+  "da89eba7-83bf-4914-ba67-187fe203517b": {
+    "Marca": "Toyota",
+    "Modelo": "Yaris",
+    "Airbags": false,
+    "ABS": false
+  },
+  "cca499b4-d517-42a1-ad72-4e8d474b80a2": {
+    "Marca": "Suzuki",
+    "Modelo": "Swift",
+    "Airbags": true,
+    "ABS": true
+  }
+}
